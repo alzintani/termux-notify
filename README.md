@@ -1,2 +1,2 @@
 # termux-notify
-Send informations to Android notification center.
+Send informations from your project to Android notification center.
