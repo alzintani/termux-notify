@@ -22,14 +22,12 @@ Nodejs module for Sending notifications from your project to Android notificatio
 ## Requirements
 
 - Android Device.
-- Termux App.
-- Termux:API App
-- Termux:API permission to send notifications
+- Termux & Termux:API Apps.
 
 -----
 
 ## Installation
-- Install Termux:API app from F-Droid app or from GitHub repository.
+- Install Termux:API app from [F-Droid](https://f-droid.org/ar/) app or from [GitHub repository](https://github.com/termux/termux-api/releases).
 - Make sure that Termux:API app have a permission to send notifications.
 
 - Install `termux-notification` and `termux-toast` packges from Termux;-
@@ -37,14 +35,14 @@ Nodejs module for Sending notifications from your project to Android notificatio
 pkg install termux-api
 ```
 
-_ Install TermuxNotify to your project:-
+- Install TermuxNotify into your project:-
 
---  With npm
+-  With npm
 ```BASH
 npm i termux-notify
 ```
 
--- With yarn
+- With yarn
 ```BASH
 yarn add termux-notify
 ```

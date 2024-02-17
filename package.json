@@ -1,0 +1,20 @@
+{
+  "name": "termux-notify",
+  "version": "0.1.0",
+  "description": "Display any information on Android system notification from Nodejs with Termux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "termux",
+    "notify",
+    "android",
+    "notifications"
+  ],
+  "author": "alzintani",
+  "license": "MIT",
+  "dependencies": {
+    "shellwords": "^1.0.1"
+  }
+}
