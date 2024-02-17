@@ -1,7 +1,7 @@
 {
   "name": "termux-notify",
   "version": "0.1.0",
-  "description": "Display any information on Android system notification from Nodejs with Termux.",
+  "description": "Sending notifications from your project to Android notification center.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,7 @@
     "android",
     "notifications"
   ],
+  "git repository": "https://github.com/alzintani/termux-notify",
   "author": "alzintani",
   "license": "MIT",
   "dependencies": {
