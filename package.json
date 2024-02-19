@@ -15,6 +15,10 @@
   "git repository": "https://github.com/alzintani/termux-notify",
   "author": "alzintani",
   "license": "MIT",
+  "homepage": "https://github.com/alzintani/termux-notify#readme",
+  "bugs": {
+    "url": "https://github.com/alzintani/termux-notify/issues"
+  },
   "dependencies": {
     "shellwords": "^1.0.1"
   }
