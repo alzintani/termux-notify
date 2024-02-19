@@ -1,6 +1,6 @@
 {
   "name": "termux-notify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sending notifications from your project to Android notification center.",
   "main": "index.js",
   "scripts": {
